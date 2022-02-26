@@ -6,9 +6,9 @@
 5. About in&out read [this][in/out]
    
 
-[docs]:[http://www.codenet.ru/progr/dos/int_0013.php]
-[c]:[https://www.cmrr.umn.edu/~strupp/serial.html]
-[in/out]:[https://sysprog.ru/post/komandy-in-i-out]
+[docs]: [http://www.codenet.ru/progr/dos/int_0013.php]
+[c]: [https://www.cmrr.umn.edu/~strupp/serial.html]
+[in/out]: [https://sysprog.ru/post/komandy-in-i-out]
 ## NOTE
 Sorry for govnocode ) 
 <br>
