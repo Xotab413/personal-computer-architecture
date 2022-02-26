@@ -6,11 +6,11 @@
 4. In c impementation on Linux, read [this][c] chapter
 5. About in&out read [this][in/out]
 
-## NOTE
-Sorry for govnocode )
-
-
 [video]:[https://youtu.be/h8RPA4Sb-Ps]
 [docs]:[http://www.codenet.ru/progr/dos/int_0013.php]
 [c]:[https://www.cmrr.umn.edu/~strupp/serial.html]
 [in/out]:[https://sysprog.ru/post/komandy-in-i-out]
+## NOTE
+Sorry for govnocode )
+
+
