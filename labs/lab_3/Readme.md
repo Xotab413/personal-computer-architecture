@@ -1,13 +1,9 @@
 # Links for undestanding material
-1. First u should read [lecture][lecture] and understand how interruption appeared in PC, if u don't understand read [this][fandom] link
-2. When u copy_paste, or write code by your own, u should understand all command which u use, what bytes and why, read clearly [book][book] p 486
+- First u should read [lecture][lecture] and understand how interruption appeared in PC, if u don't understand read [this][fandom] link
+-  When u copy_paste, or write code by your own, u should understand all comand which u use, what bytes and why, read clearly [book][book] p 486
 ## NOTE
-1. If u speedrun labs (Odinec like it), u can get higher mark
-2. Just relax and do your best (◕_◕)
-
-
-
-
+- If u speedrun labs (Odinec like it), u can get higher mark
+- Just relax and do your best (◕_◕)
 
 
 [lecture]: [https://docviewer.yandex.by/view/0/?*=q2BK6rh6Q5qlo7EqjNfhNGWR42N7InVybCI6InlhLWRpc2stcHVibGljOi8vaGNYTnJMVzk1V3BiVlMybVdEekVRN1dzQkZnbk1OY3YzeVdVdFgwQVJrUEoyL1JmTkpyT3JraWlYamx0aUZkWStiM25DS0xDVlRKK1NJbmFPVXZ2SFE9PTov0JvQtdC60YbQuNC4Lz01XzA90J%2FQmtCf0YDQtdGA0YvQstCw0L3QuNC5Xy5wcHQiLCJ0aXRsZSI6Ij01XzA90J%2FQmtCf0YDQtdGA0YvQstCw0L3QuNC5Xy5wcHQiLCJub2lmcmFtZSI6ZmFsc2UsInVpZCI6IjAiLCJ0cyI6MTY0NjA0MjIyNjQyMiwieXUiOiI0MDI2Njk0MDAxNjQ2MDQyMjAyIn0%3D]
