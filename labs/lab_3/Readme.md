@@ -9,3 +9,4 @@
 ## NOTE
 - If u speedrun labs (Odinec like it), u can get higher mark
 - Just relax and do your best (◕_◕)
+- Variant is not important, just edit 2-4 lines of code
