@@ -1,5 +1,5 @@
 # Links for understanding material
-1. first of all watch my [video](https://youtu.be/h8RPA4Sb-Ps)
+1. first of all watch my [video](https://youtu.be/h8RPA4Sb-Ps) and read [lecture](https://cutt.ly/4Ap81Ju)
 2. [Docs](http://www.codenet.ru/progr/dos/int_0013.php) for 14h, u should do this point in virtual-machine 
 3. On linux use my mount script for edit a vhd file
 4. In c impementation on Linux, read [this](https://www.cmrr.umn.edu/~strupp/serial.html) chapter
