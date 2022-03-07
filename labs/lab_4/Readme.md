@@ -40,3 +40,4 @@ For good quality of code, i'm too lazy for doing this:
 + Use delay between two notes
 + Make duration close to human count, quarter, half and e.t.c 
     >  Find time, when it's close to full note, and in massive just use ratio (1/2, 1/4, ...)
++ Use many terminal, for making chords, or orchestra
