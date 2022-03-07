@@ -10,16 +10,17 @@
 ## Play some music boiii
 - Habr [post](https://habr.com/ru/post/496494) of this lab
   > Great thanks to [Anton](https://github.com/twinpixxx)
+- [Simple demo of my soung](https://youtu.be/UVUoOQL9SeI)
+  
+Yes, i choose to play [Bohemian Rapsody](https://sheetmusic-free.com/bohemian-rhapsody-sheet-music-queen-7512/), not all, but some piece of its, and, yeah, i have musician education ( 9 year on accrodion), and that's why i know note, and other thing.
 
-I choose to play [Bohemian Rapsody](https://sheetmusic-free.com/bohemian-rhapsody-sheet-music-queen-7512/), not all, but some piece of its, and, yeah, i have musician education ( 9 year on accrodion), and that's why i know note, and other thing.
-
-Every note has own tone (frequence) and duration (speed)
+Every note has own tone (frequency) and duration (speed)
 <br> That's why you need to convert your note to frequence 
 
   - Ликбез on note's grammar: 
     - [One](https://pereborom.ru/dlitelnosti-not/)
     - [Two](https://lovec-not.ru/blog/dlitelnosti-not)
-  - Converter notes to frequence
+  - Converter notes to frequency
     - Simple [toneGenerator](https://www.ural-auto.ru/services/tone-generator/)
     - Advance [freq calculator](https://www.translatorscafe.com/unit-converter/ru-RU/calculator/note-frequency/), which i use
     - Another [one](https://www.szynalski.com/tone-generator/)
@@ -32,3 +33,10 @@ Every note has own tone (frequence) and duration (speed)
 - [Conver Midi to NumPy array](https://medium.com/analytics-vidhya/convert-midi-file-to-numpy-array-in-python-7d00531890c), mb it's will be interesting for PYthonist
 - Interesting [video](https://youtu.be/NIyQueXqRYE) about PC-Speaker
 - [History](https://youtu.be/Uh7KGPOC8gc) of PC-Speaker
+## Notes
+For good quality of code, i'm too lazy for doing this:  
++ Use class of notes (fields: delay and freq)
++ Normal array of note (like in Piezoelectric Buzzer)
++ Use delay between two notes
++ Make duration close to human count, quarter, half and e.t.c 
+    >  Find time, when it's close to full note, and in massive just use ratio (1/2, 1/4, ...)
