@@ -8,5 +8,8 @@
 ## NOTE
 Sorry for govnocode ) 
 <br>
-   Idk why 14h not properly work in DOSbox, maybe because i'm ,<b>рукожоп</b> :3 
+   ~~Idk why 14h not properly work in DOSbox, maybe because i'm ,<b>рукожоп</b> :3 ~~
+<br>
+   UPD: DOSbox doesn't have BIOS
+   </br>
 </br>
