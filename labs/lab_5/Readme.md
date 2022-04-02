@@ -8,7 +8,7 @@
 ## NOTE
 
 + This is cool lab, because ~~Odinec hate 0x4A interruption~~, and if u have it that's bad (this is all labs in git and helper)
-> UPD: you have 2 chairs, but firslty read this [aricle][why70h] : 1 - redefine interruption handlers for [int70h], for alaram and for delay (yeah, you'll have 2 "similar"), 2 - nd chair is my theory, and mb in future it will fail, but who knows). We can redefine int of alarm 4ah (vector), and for delay 15h, and MAybe it's should work. The reason why on Anjelika's github and other's it's do not work, because if we redefine 70h which include also (4ah and 15h with services), we should properly redefine the same vector for alarm, and if you try to set alarm and use delay, you'll have a lot of message "alarm", and seg error :3
+> UPD: you have 2 chairs, but firslty read this [article][why70h] : 1 - redefine interruption handlers for [int70h], for alaram and for delay (yeah, you'll have 2 "similar"), 2 - nd chair is my theory, and mb in future it will fail, but who knows). We can redefine int of alarm 4ah (vector), and for delay 15h, and MAybe it's should work. The reason why on Anjelika's github and other's it's do not work, because if we redefine 70h which include also (4ah and 15h with services), we should properly redefine the same vector for alarm, and if you try to set alarm and use delay, you'll have a lot of message "alarm", and seg error :3
 + Just relax and do your best (◕_◕)
 + Use virtualbox because DOSbox doesn't have BIOS
 
